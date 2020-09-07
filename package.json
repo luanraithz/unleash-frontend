@@ -90,7 +90,7 @@
     "webpack": "^4.17.1",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.5",
-    "whatwg-fetch": "^2.0.0"
+    "whatwg-fetch": "^3.4.1"
   },
   "jest": {
     "moduleNameMapper": {
